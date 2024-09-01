@@ -32,7 +32,18 @@ This project focuses on extracting Netflix data from Kaggle, loading it into a S
    ```bash
    pip install pandas sqlalchemy pyodbc
 
-2.  SQL Server Setup:
-   Ensure SQL Server is installed and running, with ODBC connection configured.
+2.  SQL Server Setup: Ensure SQL Server is installed and running, with ODBC connection configured.
+
+3. Kaggle Setup: Configure the Kaggle API and download the Netflix dataset using Python Kaggle Library
+
+## Usage Instructions
+
+1. Data Extraction: Use the Kaggle API within Jupyter Notebook to download the Netflix dataset
+2. Data Loading: Load the dataset into a Pandas DataFrame and then into SQL Server
+3. Data Cleaning and Transformation: Execute the provided SQL scripts to clean and transform the data
+4. Data Analysis: Run the SQL analysis queries to generate insights from the cleaned dat
+
+## Contributors
+**Rohit Annasaheb Ragde**
 
 
