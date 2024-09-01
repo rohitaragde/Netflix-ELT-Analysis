@@ -41,7 +41,13 @@ This project focuses on extracting Netflix data from Kaggle, loading it into a S
 1. Data Extraction: Use the Kaggle API within Jupyter Notebook to download the Netflix dataset
 2. Data Loading: Load the dataset into a Pandas DataFrame and then into SQL Server
 3. Data Cleaning and Transformation: Execute the provided SQL scripts to clean and transform the data
-4. Data Analysis: Run the SQL analysis queries to generate insights from the cleaned dat
+4. Data Analysis: Run the SQL analysis queries to generate insights from the cleaned data
+
+## Future Work
+1. Data Enrichment: Integrate additional datasets, such as viewer ratings or box office performance, to further analyze the success of movies and TV shows.
+2. Predictive Analysis: Implement machine learning models to predict the success of a movie or TV show based on historical data.
+3. Visualization: Use data visualization tools like Power BI or Tableau to create dashboards that provide interactive insights into the Netflix dataset.
+4. Automation: Automate the entire ELT process using tools like Apache Airflow to streamline the workflow and ensure real-time data processing
 
 ## Contributors
 **Rohit Annasaheb Ragde**
