@@ -43,7 +43,7 @@ This project focuses on extracting Netflix data from Kaggle, loading it into a S
 3. Data Cleaning and Transformation: Execute the provided SQL scripts to clean and transform the data
 4. Data Analysis: Run the SQL analysis queries to generate insights from the cleaned data
 
-##Conclusion
+## Conclusion
 This project successfully demonstrated the ELT process by extracting, loading, and transforming a real-world dataset. Through a series of SQL-based analyses, valuable insights were uncovered about Netflix’s content, including director versatility, genre-specific trends, and country-based production statistics. These findings not only offer a deeper understanding of the Netflix catalog but also provide a foundation for more advanced analyses and applications. The flexibility of SQL in handling complex transformations and queries made it an ideal choice for this project, showing how powerful data can be when properly cleaned and analyzed.
 
 ## Future Work
