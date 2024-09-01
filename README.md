@@ -1,4 +1,4 @@
-# Netflix ELT Analysis Project
+# Netflix ELT Analysis 
 
 ## Project Description
 This project focuses on extracting Netflix data from Kaggle, loading it into a SQL Server database, and performing data cleaning and analysis. The aim is to demonstrate the ELT process using SQL for data transformation and analysis after loading the raw data into a database.
