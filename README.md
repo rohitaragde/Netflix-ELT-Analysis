@@ -30,9 +30,9 @@ This project focuses on extracting Netflix data from Kaggle, loading it into a S
 1. **Python Environment Setup:**  
    Install necessary Python libraries:
    ```bash
-   pip install pandas sqlalchemy pyodbc```
+   pip install pandas sqlalchemy pyodbc
 
-2. ** SQL Server Setup:**
+2.  SQL Server Setup:
    Ensure SQL Server is installed and running, with ODBC connection configured.
 
 
